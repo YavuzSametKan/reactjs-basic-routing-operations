@@ -1,5 +1,8 @@
 # React Router İşlemleri
 Bu repo, React uygulamalarında temel yönlendirme işlemlerini gerçekleştirmek için kullanılan örnek bir rehberdir. Öğrendiklerimi tekrar etmek amaçlı unuttuğum esnada kodlara bakmam için üretilmiştir.
+
+[Live Demo İçin Tıklayın.](https://yavuzsametkan.github.io/reactjs-basic-routing-operations)
+
 ### React Router Nedir?
 
 React Router, React tabanlı web uygulamalarında sayfa yönlendirmesi ve gezinme için kullanılan bir kütüphanedir. React Router, tek sayfa uygulamalarının (SPA) çoklu sayfa gibi davranmasını sağlar. Geleneksel çok sayfalı web uygulamalarında, her bağlantı veya sayfa değişikliği genellikle sunucuya yeni bir istek gönderir ve tam bir sayfa yenilenmesi gerektirir. Ancak, tek sayfa uygulamalarında, tüm sayfa içeriği bir kez yüklendikten sonra, sayfa yenilemeden veya sunucuya ek isteklerde bulunmadan, kullanıcı etkileşimleri aracılığıyla içeriği güncellemek mümkündür.
